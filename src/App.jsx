@@ -1,10 +1,15 @@
 import './App.css'
+import NavBar from './Nav'
 import Product from './Products'
 
 
 function App() {
   return (
-    <Product />
+    <>
+        <NavBar></NavBar>
+        <Product />
+    </>
+
   )
 }
 
