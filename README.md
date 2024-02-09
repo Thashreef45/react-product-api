@@ -1,8 +1,19 @@
-# React + Vite
+#  Product Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I developed a product landing page using **React** and **Material-UI**, seamlessly integrating product details obtained from an **API** through the **Axios** library.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Utilize this repo
+
+ - `git clone https://github.com/Thashreef45/react-product-api.git`
+   
+   `cd react-product-api`
+   
+   `npm install`
+   
+   `npm run dev`*(Dev Mode)*
+   
+   Browser: localhost:5173
+
+![image](https://github.com/Thashreef45/react-product-api/assets/113377703/7a9b30d1-aa6a-4ffd-9d29-6fa80244a300)
+
